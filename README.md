@@ -33,3 +33,7 @@ Email: luna.ana92@gmail.com
 ## Demo
 Video demostrating the application: 
 https://drive.google.com/file/d/1C5gzZ9YIvGtLrh7TBKTWf6uaRmt4fXco/view
+
+Example of a generated file using the application:
+<img src="output/MyTeam_example.jpg">
+
